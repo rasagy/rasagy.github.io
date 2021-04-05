@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Building on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/community/</link>
+    <description>Recent content in Community Building on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 22:03:21 +0530</lastBuildDate><atom:link href="http://not-so-rashnl.surge.sh/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Data Viz &amp; Creative Coding in P5.js</title>
+      <link>http://not-so-rashnl.surge.sh/community/teaching-data-viz-creative-coding-nid-blr-2021/</link>
+      <pubDate>Mon, 22 Mar 2021 22:03:21 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/teaching-data-viz-creative-coding-nid-blr-2021/</guid>
+      <description>I was invited to lead a 10-day virtual module as part of the Information Visualization - I course for M.Des. Information Design students at NID Bangalore.
+More details on course structure &amp;amp; student projects soon.
+ -- </description>
+    </item>
+    
+    <item>
+      <title>Webinar — What stories can you narrate with data?</title>
+      <link>http://not-so-rashnl.surge.sh/community/webinar-data-storytelling-mit-id/</link>
+      <pubDate>Tue, 18 Aug 2020 16:30:00 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/webinar-data-storytelling-mit-id/</guid>
+      <description>I got invited to conduct a virtual, interactive workshop on data storytelling, for MIT ID Innovation Program’s Virtual GradShow.
+In the workshop, I explained why data needs to be narrated as stories, showed some case studies by Gramener &amp;amp; walked through the process of going from data analysis to narrating a story. I also focused on how design thinking’s user-centricity &amp;amp; encoding principles based on visual perception enable us to visualize insights that are useful &amp;amp; engaging.</description>
+    </item>
+    
+    <item>
+      <title>Fireside chat — Sketching &amp; Data Visualization</title>
+      <link>http://not-so-rashnl.surge.sh/community/fireside-chat-sketching-dataviz-datavizsociety/</link>
+      <pubDate>Thu, 14 May 2020 01:02:03 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/fireside-chat-sketching-dataviz-datavizsociety/</guid>
+      <description>I got a chance to join two incredible designers — Katherine Haugh &amp;amp; Duncan Geere — for a fireside chat on Sketching &amp;amp; Data Visualization. This chat was done virtually, moderated by Amy Cesal for the DataVizSociety .
+We spoke about using sketching in the data viz process, using sketching as an aesthetic for data viz, and using sketchnoting as a way to visually represent information.
+You can watch the session on Youtube :</description>
+    </item>
+    
+    <item>
+      <title>Webinar — Maps love Data: A voyage across the world of geo-visualization</title>
+      <link>http://not-so-rashnl.surge.sh/community/webinar-maps-data-visualization-spa-bhopal/</link>
+      <pubDate>Wed, 13 May 2020 15:00:00 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/webinar-maps-data-visualization-spa-bhopal/</guid>
+      <description>I was invited to speak to the M.Des. students in Department of Design at SPA Bhopal as part of their Design Samvãd series of guest lectures.
+I spoke about how maps are inherently a form of data visualization, and how they enable a variety of geo-visualizations.
+ Slides from my talk are available on SpeakerDeck :
+ </description>
+    </item>
+    
+    <item>
+      <title>Loopimation — Creating looping animations in P5.js</title>
+      <link>http://not-so-rashnl.surge.sh/community/workshop-loopimation-pcd-blr-2020/</link>
+      <pubDate>Sun, 09 Feb 2020 14:00:00 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/workshop-loopimation-pcd-blr-2020/</guid>
+      <description>Loopimation was a short workshop on building looping geometric animations in P5.js that I conducted at Processing Community Day 2020 in Bengaluru (India) .
+Talking about historical techniques for animations   You can explore some of the example starter P5.js sketches , using the wonderful p5.createLoop library .
+An example looping animation created in workshop   Slides are available on Google Slides :
+ You can also download &amp;amp; print my storyboarding template for planning your animations.</description>
+    </item>
+    
+    <item>
+      <title>World Interaction Design Day (IxDD)</title>
+      <link>http://not-so-rashnl.surge.sh/community/volunteering-ixdd-ibm-2019/</link>
+      <pubDate>Tue, 24 Sep 2019 17:30:00 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/volunteering-ixdd-ibm-2019/</guid>
+      <description>I helped organize the World Interaction Design Day 2019 celebrations at IBM, Bangalore. As one of the local leader for IxDA, I was involved in speaker curation &amp;amp; logistics for the event.
+Teams collaborating during the Ethics Sprint workshop at IxDD 2019   Speaker lineup We had two talks &amp;amp; one workshop exploring Trust &amp;amp; Responsibility from the lens of Interaction Design:
+ Vinay Kesari spoke on Data Protection Law in India.</description>
+    </item>
+    
+  </channel>
+</rss>

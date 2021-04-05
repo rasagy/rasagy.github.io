@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/community/on/maps/</link>
+    <description>Recent content in Maps on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://not-so-rashnl.surge.sh/community/on/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webinar — Maps love Data: A voyage across the world of geo-visualization</title>
+      <link>http://not-so-rashnl.surge.sh/community/webinar-maps-data-visualization-spa-bhopal/</link>
+      <pubDate>Wed, 13 May 2020 15:00:00 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/webinar-maps-data-visualization-spa-bhopal/</guid>
+      <description>I was invited to speak to the M.Des. students in Department of Design at SPA Bhopal as part of their Design Samvãd series of guest lectures.
+I spoke about how maps are inherently a form of data visualization, and how they enable a variety of geo-visualizations.
+ Slides from my talk are available on SpeakerDeck :
+ </description>
+    </item>
+    
+  </channel>
+</rss>

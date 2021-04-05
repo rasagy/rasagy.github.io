@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creative Coding on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/projects/in/creative-coding/</link>
+    <description>Recent content in Creative Coding on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://not-so-rashnl.surge.sh/projects/in/creative-coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data.n.coded — collection of creative coding experiments</title>
+      <link>http://not-so-rashnl.surge.sh/projects/data-n-coded/</link>
+      <pubDate>Thu, 01 Aug 2019 01:02:03 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/projects/data-n-coded/</guid>
+      <description>Home for my experiments with generative &amp;amp; data art in P5.js</description>
+    </item>
+    
+  </channel>
+</rss>

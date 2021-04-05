@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/blog/tags/announcements/</link>
+    <description>Recent content in Announcements on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://not-so-rashnl.surge.sh/blog/tags/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merry Christmas and a Happy New Blog!</title>
+      <link>http://not-so-rashnl.surge.sh/blog/merry-christmas-and-a-happy-new-blog/</link>
+      <pubDate>Sun, 25 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/blog/merry-christmas-and-a-happy-new-blog/</guid>
+      <description>What better time to start a new blog, than NOW? Finally, I have one place to archive my thoughts, ideas &amp;amp; sketchnotes.</description>
+    </item>
+    
+    <item>
+      <title>Blog Creation</title>
+      <link>http://not-so-rashnl.surge.sh/blog/blog-creation/</link>
+      <pubDate>Fri, 11 Apr 2008 11:04:08 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/blog/blog-creation/</guid>
+      <description>My first post on my first personal blog!</description>
+    </item>
+    
+  </channel>
+</rss>

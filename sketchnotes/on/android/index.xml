@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/sketchnotes/on/android/</link>
+    <description>Recent content in Android on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://not-so-rashnl.surge.sh/sketchnotes/on/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humanize the Android</title>
+      <link>http://not-so-rashnl.surge.sh/sketchnotes/droidcon-india-2011-humanize-the-android/</link>
+      <pubDate>Mon, 26 Dec 2011 18:18:18 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/sketchnotes/droidcon-india-2011-humanize-the-android/</guid>
+      <description>Last month I volunteered for organizing Droidcon India at Bangalore &amp;amp; I squeezed some time to sketchnote for the session – “Humanize the Android” by Vivek Juneja.</description>
+    </item>
+    
+  </channel>
+</rss>

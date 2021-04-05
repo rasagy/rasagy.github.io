@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flash on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/blog/tags/flash/</link>
+    <description>Recent content in Flash on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://not-so-rashnl.surge.sh/blog/tags/flash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Run Chef Run — My game for CodeChef Contest</title>
+      <link>http://not-so-rashnl.surge.sh/blog/run-chef-run-codechef-contest/</link>
+      <pubDate>Mon, 29 Jun 2009 13:31:00 +0530</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/blog/run-chef-run-codechef-contest/</guid>
+      <description>My entry for CodeChef contest: A game made in Flash.</description>
+    </item>
+    
+  </channel>
+</rss>

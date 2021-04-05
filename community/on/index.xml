@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community/On on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/community/on/</link>
+    <description>Recent content in Community/On on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 22:03:21 +0530</lastBuildDate><atom:link href="http://not-so-rashnl.surge.sh/community/on/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative Coding</title>
+      <link>http://not-so-rashnl.surge.sh/community/on/creative-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/on/creative-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Storytelling</title>
+      <link>http://not-so-rashnl.surge.sh/community/on/data-storytelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/on/data-storytelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>http://not-so-rashnl.surge.sh/community/on/data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/on/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://not-so-rashnl.surge.sh/community/on/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/on/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>http://not-so-rashnl.surge.sh/community/on/maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/community/on/maps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects/In on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/projects/in/</link>
+    <description>Recent content in Projects/In on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2020 23:59:59 +0530</lastBuildDate><atom:link href="http://not-so-rashnl.surge.sh/projects/in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative Coding</title>
+      <link>http://not-so-rashnl.surge.sh/projects/in/creative-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/projects/in/creative-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Art</title>
+      <link>http://not-so-rashnl.surge.sh/projects/in/data-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/projects/in/data-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>http://not-so-rashnl.surge.sh/projects/in/data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/projects/in/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>http://not-so-rashnl.surge.sh/projects/in/maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/projects/in/maps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

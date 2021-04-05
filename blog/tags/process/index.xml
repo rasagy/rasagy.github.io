@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process on Rasagy Sharma</title>
+    <link>http://not-so-rashnl.surge.sh/blog/tags/process/</link>
+    <description>Recent content in Process on Rasagy Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://not-so-rashnl.surge.sh/blog/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing 500 Days of Summer!</title>
+      <link>http://not-so-rashnl.surge.sh/blog/visualizing-500-days-of-summer/</link>
+      <pubDate>Mon, 30 Sep 2013 23:22:21 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/blog/visualizing-500-days-of-summer/</guid>
+      <description>This semester began with a module on Narratives, and when I got a chance to pick a topic for my Information Visualization module, I just had to visualize this movie’s non-linear narrative!</description>
+    </item>
+    
+    <item>
+      <title>Week 1: Alberto Cairo’s MOOC on Infographics &amp; Data Visualization</title>
+      <link>http://not-so-rashnl.surge.sh/blog/week-1-alberto-cairos-mooc-on-infographics-data-visualization/</link>
+      <pubDate>Wed, 23 Jan 2013 04:44:40 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/blog/week-1-alberto-cairos-mooc-on-infographics-data-visualization/</guid>
+      <description>As an assignment, we had to pick one of the many infographics, critique it, &amp;amp; suggest alternatives to the infographic. Here&amp;rsquo;s my critique &amp;amp; some sketches.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing T.T. Finals at NID Bangalore</title>
+      <link>http://not-so-rashnl.surge.sh/blog/visualizing-table-tennis-finals-at-nid-bangalore/</link>
+      <pubDate>Thu, 08 Nov 2012 12:12:12 +0000</pubDate>
+      
+      <guid>http://not-so-rashnl.surge.sh/blog/visualizing-table-tennis-finals-at-nid-bangalore/</guid>
+      <description>Last month, the (newly elected) sports committee of NID Bangalore organized a Table Tennis Tournament. Here’s my first attempt at making a data visualization – Final matches between Amal &amp;amp; Upamanyu.</description>
+    </item>
+    
+  </channel>
+</rss>
