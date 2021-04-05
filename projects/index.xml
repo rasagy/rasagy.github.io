@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Public Projects on Rasagy Sharma</title>
-    <link>http://not-so-rashnl.surge.sh/projects/</link>
-    <description>Recent content in Public Projects on Rasagy Sharma</description>
+    <title>Public Projects on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</title>
+    <link>http://rasagy.in/projects/</link>
+    <description>Recent content in Public Projects on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 23:59:59 +0530</lastBuildDate><atom:link href="http://not-so-rashnl.surge.sh/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 23:59:59 +0530</lastBuildDate><atom:link href="http://rasagy.in/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>World Wisdom Map — Repository of life lessons &amp; insights</title>
-      <link>http://not-so-rashnl.surge.sh/projects/world-wisdom-map/</link>
+      <link>http://rasagy.in/projects/world-wisdom-map/</link>
       <pubDate>Thu, 24 Dec 2020 23:59:59 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/projects/world-wisdom-map/</guid>
+      <guid>http://rasagy.in/projects/world-wisdom-map/</guid>
       <description>What would a map of wisdom from all around the world look like? Result of an inspiring collaboration with Project Fuel.</description>
     </item>
     
     <item>
       <title>data.n.coded — collection of creative coding experiments</title>
-      <link>http://not-so-rashnl.surge.sh/projects/data-n-coded/</link>
+      <link>http://rasagy.in/projects/data-n-coded/</link>
       <pubDate>Thu, 01 Aug 2019 01:02:03 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/projects/data-n-coded/</guid>
+      <guid>http://rasagy.in/projects/data-n-coded/</guid>
       <description>Home for my experiments with generative &amp;amp; data art in P5.js</description>
     </item>
     
     <item>
       <title>Visualizing 500 Days of Summer</title>
-      <link>http://not-so-rashnl.surge.sh/projects/visualizing-500-days-of-summer/</link>
+      <link>http://rasagy.in/projects/visualizing-500-days-of-summer/</link>
       <pubDate>Mon, 23 Sep 2013 05:00:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/projects/visualizing-500-days-of-summer/</guid>
+      <guid>http://rasagy.in/projects/visualizing-500-days-of-summer/</guid>
       <description>Visualization of the non-linear narrative of the movie: 500 Days of Summer</description>
     </item>
     

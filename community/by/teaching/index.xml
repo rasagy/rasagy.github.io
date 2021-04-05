@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching on Rasagy Sharma</title>
-    <link>http://not-so-rashnl.surge.sh/community/by/teaching/</link>
-    <description>Recent content in Teaching on Rasagy Sharma</description>
+    <title>Teaching on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</title>
+    <link>http://rasagy.in/community/by/teaching/</link>
+    <description>Recent content in Teaching on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://not-so-rashnl.surge.sh/community/by/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://rasagy.in/community/by/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Data Viz &amp; Creative Coding in P5.js</title>
-      <link>http://not-so-rashnl.surge.sh/community/teaching-data-viz-creative-coding-nid-blr-2021/</link>
+      <link>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</link>
       <pubDate>Mon, 22 Mar 2021 22:03:21 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/community/teaching-data-viz-creative-coding-nid-blr-2021/</guid>
+      <guid>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</guid>
       <description>I was invited to lead a 10-day virtual module as part of the Information Visualization - I course for M.Des. Information Design students at NID Bangalore.
 More details on course structure &amp;amp; student projects soon.
  -- </description>

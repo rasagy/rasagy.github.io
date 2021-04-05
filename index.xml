@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rasagy Sharma</title>
-    <link>http://not-so-rashnl.surge.sh/</link>
-    <description>Recent content on Rasagy Sharma</description>
+    <title>Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</title>
+    <link>http://rasagy.in/</link>
+    <description>Recent content on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 22:03:21 +0530</lastBuildDate><atom:link href="http://not-so-rashnl.surge.sh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 22:03:21 +0530</lastBuildDate><atom:link href="http://rasagy.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Rasagy Sharma</title>
-      <link>http://not-so-rashnl.surge.sh/about/</link>
+      <link>http://rasagy.in/about/</link>
       <pubDate>Mon, 05 Apr 2021 05:04:20 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/about/</guid>
+      <guid>http://rasagy.in/about/</guid>
       <description>Rasagy is a designer at Sundial, focused on enabling teams to discover the story in their product data. His areas of interest include Information Visualization, Data Art, Creative Coding &amp;amp; Sketchnoting.</description>
     </item>
     
     <item>
       <title>Introduction to Data Viz &amp; Creative Coding in P5.js</title>
-      <link>http://not-so-rashnl.surge.sh/community/teaching-data-viz-creative-coding-nid-blr-2021/</link>
+      <link>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</link>
       <pubDate>Mon, 22 Mar 2021 22:03:21 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/community/teaching-data-viz-creative-coding-nid-blr-2021/</guid>
+      <guid>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</guid>
       <description>I was invited to lead a 10-day virtual module as part of the Information Visualization - I course for M.Des. Information Design students at NID Bangalore.
 More details on course structure &amp;amp; student projects soon.
  -- </description>
@@ -29,29 +29,29 @@ More details on course structure &amp;amp; student projects soon.
     
     <item>
       <title>World Wisdom Map — Repository of life lessons &amp; insights</title>
-      <link>http://not-so-rashnl.surge.sh/projects/world-wisdom-map/</link>
+      <link>http://rasagy.in/projects/world-wisdom-map/</link>
       <pubDate>Thu, 24 Dec 2020 23:59:59 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/projects/world-wisdom-map/</guid>
+      <guid>http://rasagy.in/projects/world-wisdom-map/</guid>
       <description>What would a map of wisdom from all around the world look like? Result of an inspiring collaboration with Project Fuel.</description>
     </item>
     
     <item>
       <title>Webinar — What stories can you narrate with data?</title>
-      <link>http://not-so-rashnl.surge.sh/community/webinar-data-storytelling-mit-id/</link>
+      <link>http://rasagy.in/community/webinar-data-storytelling-mit-id/</link>
       <pubDate>Tue, 18 Aug 2020 16:30:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/community/webinar-data-storytelling-mit-id/</guid>
+      <guid>http://rasagy.in/community/webinar-data-storytelling-mit-id/</guid>
       <description>I got invited to conduct a virtual, interactive workshop on data storytelling, for MIT ID Innovation Program’s Virtual GradShow.
 In the workshop, I explained why data needs to be narrated as stories, showed some case studies by Gramener &amp;amp; walked through the process of going from data analysis to narrating a story. I also focused on how design thinking’s user-centricity &amp;amp; encoding principles based on visual perception enable us to visualize insights that are useful &amp;amp; engaging.</description>
     </item>
     
     <item>
       <title>Fireside chat — Sketching &amp; Data Visualization</title>
-      <link>http://not-so-rashnl.surge.sh/community/fireside-chat-sketching-dataviz-datavizsociety/</link>
+      <link>http://rasagy.in/community/fireside-chat-sketching-dataviz-datavizsociety/</link>
       <pubDate>Thu, 14 May 2020 01:02:03 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/community/fireside-chat-sketching-dataviz-datavizsociety/</guid>
+      <guid>http://rasagy.in/community/fireside-chat-sketching-dataviz-datavizsociety/</guid>
       <description>I got a chance to join two incredible designers — Katherine Haugh &amp;amp; Duncan Geere — for a fireside chat on Sketching &amp;amp; Data Visualization. This chat was done virtually, moderated by Amy Cesal for the DataVizSociety .
 We spoke about using sketching in the data viz process, using sketching as an aesthetic for data viz, and using sketchnoting as a way to visually represent information.
 You can watch the session on Youtube :</description>
@@ -59,10 +59,10 @@ You can watch the session on Youtube :</description>
     
     <item>
       <title>Webinar — Maps love Data: A voyage across the world of geo-visualization</title>
-      <link>http://not-so-rashnl.surge.sh/community/webinar-maps-data-visualization-spa-bhopal/</link>
+      <link>http://rasagy.in/community/webinar-maps-data-visualization-spa-bhopal/</link>
       <pubDate>Wed, 13 May 2020 15:00:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/community/webinar-maps-data-visualization-spa-bhopal/</guid>
+      <guid>http://rasagy.in/community/webinar-maps-data-visualization-spa-bhopal/</guid>
       <description>I was invited to speak to the M.Des. students in Department of Design at SPA Bhopal as part of their Design Samvãd series of guest lectures.
 I spoke about how maps are inherently a form of data visualization, and how they enable a variety of geo-visualizations.
  Slides from my talk are available on SpeakerDeck :
@@ -71,10 +71,10 @@ I spoke about how maps are inherently a form of data visualization, and how they
     
     <item>
       <title>Loopimation — Creating looping animations in P5.js</title>
-      <link>http://not-so-rashnl.surge.sh/community/workshop-loopimation-pcd-blr-2020/</link>
+      <link>http://rasagy.in/community/workshop-loopimation-pcd-blr-2020/</link>
       <pubDate>Sun, 09 Feb 2020 14:00:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/community/workshop-loopimation-pcd-blr-2020/</guid>
+      <guid>http://rasagy.in/community/workshop-loopimation-pcd-blr-2020/</guid>
       <description>Loopimation was a short workshop on building looping geometric animations in P5.js that I conducted at Processing Community Day 2020 in Bengaluru (India) .
 Talking about historical techniques for animations   You can explore some of the example starter P5.js sketches , using the wonderful p5.createLoop library .
 An example looping animation created in workshop   Slides are available on Google Slides :
@@ -83,10 +83,10 @@ An example looping animation created in workshop   Slides are available on Googl
     
     <item>
       <title>World Interaction Design Day (IxDD)</title>
-      <link>http://not-so-rashnl.surge.sh/community/volunteering-ixdd-ibm-2019/</link>
+      <link>http://rasagy.in/community/volunteering-ixdd-ibm-2019/</link>
       <pubDate>Tue, 24 Sep 2019 17:30:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/community/volunteering-ixdd-ibm-2019/</guid>
+      <guid>http://rasagy.in/community/volunteering-ixdd-ibm-2019/</guid>
       <description>I helped organize the World Interaction Design Day 2019 celebrations at IBM, Bangalore. As one of the local leader for IxDA, I was involved in speaker curation &amp;amp; logistics for the event.
 Teams collaborating during the Ethics Sprint workshop at IxDD 2019   Speaker lineup We had two talks &amp;amp; one workshop exploring Trust &amp;amp; Responsibility from the lens of Interaction Design:
  Vinay Kesari spoke on Data Protection Law in India.</description>
@@ -94,145 +94,145 @@ Teams collaborating during the Ethics Sprint workshop at IxDD 2019   Speaker lin
     
     <item>
       <title>data.n.coded — collection of creative coding experiments</title>
-      <link>http://not-so-rashnl.surge.sh/projects/data-n-coded/</link>
+      <link>http://rasagy.in/projects/data-n-coded/</link>
       <pubDate>Thu, 01 Aug 2019 01:02:03 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/projects/data-n-coded/</guid>
+      <guid>http://rasagy.in/projects/data-n-coded/</guid>
       <description>Home for my experiments with generative &amp;amp; data art in P5.js</description>
     </item>
     
     <item>
       <title>Visualizing 500 Days of Summer!</title>
-      <link>http://not-so-rashnl.surge.sh/blog/visualizing-500-days-of-summer/</link>
+      <link>http://rasagy.in/blog/visualizing-500-days-of-summer/</link>
       <pubDate>Mon, 30 Sep 2013 23:22:21 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/visualizing-500-days-of-summer/</guid>
+      <guid>http://rasagy.in/blog/visualizing-500-days-of-summer/</guid>
       <description>This semester began with a module on Narratives, and when I got a chance to pick a topic for my Information Visualization module, I just had to visualize this movie’s non-linear narrative!</description>
     </item>
     
     <item>
       <title>Visualizing 500 Days of Summer</title>
-      <link>http://not-so-rashnl.surge.sh/projects/visualizing-500-days-of-summer/</link>
+      <link>http://rasagy.in/projects/visualizing-500-days-of-summer/</link>
       <pubDate>Mon, 23 Sep 2013 05:00:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/projects/visualizing-500-days-of-summer/</guid>
+      <guid>http://rasagy.in/projects/visualizing-500-days-of-summer/</guid>
       <description>Visualization of the non-linear narrative of the movie: 500 Days of Summer</description>
     </item>
     
     <item>
       <title>Reflections from my first year at design school</title>
-      <link>http://not-so-rashnl.surge.sh/blog/my-first-year-at-design-school/</link>
+      <link>http://rasagy.in/blog/my-first-year-at-design-school/</link>
       <pubDate>Mon, 03 Jun 2013 18:18:18 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/my-first-year-at-design-school/</guid>
+      <guid>http://rasagy.in/blog/my-first-year-at-design-school/</guid>
       <description>Exactly one year back, I decided to leave my job as a UX Designer and joined National Institute of Design, Bangalore to pursue Post Grad in Information &amp;amp; Interface Design. A year later, I felt it would be a good time to reflect on a few things.</description>
     </item>
     
     <item>
       <title>Week 1: Alberto Cairo’s MOOC on Infographics &amp; Data Visualization</title>
-      <link>http://not-so-rashnl.surge.sh/blog/week-1-alberto-cairos-mooc-on-infographics-data-visualization/</link>
+      <link>http://rasagy.in/blog/week-1-alberto-cairos-mooc-on-infographics-data-visualization/</link>
       <pubDate>Wed, 23 Jan 2013 04:44:40 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/week-1-alberto-cairos-mooc-on-infographics-data-visualization/</guid>
+      <guid>http://rasagy.in/blog/week-1-alberto-cairos-mooc-on-infographics-data-visualization/</guid>
       <description>As an assignment, we had to pick one of the many infographics, critique it, &amp;amp; suggest alternatives to the infographic. Here&amp;rsquo;s my critique &amp;amp; some sketches.</description>
     </item>
     
     <item>
       <title>It’s not a font, it’s a typeface!</title>
-      <link>http://not-so-rashnl.surge.sh/blog/its-not-a-font-its-a-typeface/</link>
+      <link>http://rasagy.in/blog/its-not-a-font-its-a-typeface/</link>
       <pubDate>Wed, 26 Dec 2012 15:45:15 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/its-not-a-font-its-a-typeface/</guid>
+      <guid>http://rasagy.in/blog/its-not-a-font-its-a-typeface/</guid>
       <description>One of my favorite ways to bug everyone, is to scream this whenever someone mixes the terms &lt;em&gt;font&lt;/em&gt; and &lt;em&gt;typeface&lt;/em&gt;. So here&amp;rsquo;s a poster on it!</description>
     </item>
     
     <item>
       <title>Visualizing T.T. Finals at NID Bangalore</title>
-      <link>http://not-so-rashnl.surge.sh/blog/visualizing-table-tennis-finals-at-nid-bangalore/</link>
+      <link>http://rasagy.in/blog/visualizing-table-tennis-finals-at-nid-bangalore/</link>
       <pubDate>Thu, 08 Nov 2012 12:12:12 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/visualizing-table-tennis-finals-at-nid-bangalore/</guid>
+      <guid>http://rasagy.in/blog/visualizing-table-tennis-finals-at-nid-bangalore/</guid>
       <description>Last month, the (newly elected) sports committee of NID Bangalore organized a Table Tennis Tournament. Here’s my first attempt at making a data visualization – Final matches between Amal &amp;amp; Upamanyu.</description>
     </item>
     
     <item>
       <title>Indian Flag in CSS3 – Republic Day Special!</title>
-      <link>http://not-so-rashnl.surge.sh/blog/indian-flag-in-css3-republic-day-india-special/</link>
+      <link>http://rasagy.in/blog/indian-flag-in-css3-republic-day-india-special/</link>
       <pubDate>Thu, 26 Jan 2012 13:13:13 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/indian-flag-in-css3-republic-day-india-special/</guid>
+      <guid>http://rasagy.in/blog/indian-flag-in-css3-republic-day-india-special/</guid>
       <description>Making anything &amp;amp; everything in CSS3 seems to be the rage these days. So to celebrate the Republic Day of India, I decided to make the Flag of India in CSS3.</description>
     </item>
     
     <item>
       <title>Humanize the Android</title>
-      <link>http://not-so-rashnl.surge.sh/sketchnotes/droidcon-india-2011-humanize-the-android/</link>
+      <link>http://rasagy.in/sketchnotes/droidcon-india-2011-humanize-the-android/</link>
       <pubDate>Mon, 26 Dec 2011 18:18:18 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/sketchnotes/droidcon-india-2011-humanize-the-android/</guid>
+      <guid>http://rasagy.in/sketchnotes/droidcon-india-2011-humanize-the-android/</guid>
       <description>Last month I volunteered for organizing Droidcon India at Bangalore &amp;amp; I squeezed some time to sketchnote for the session – “Humanize the Android” by Vivek Juneja.</description>
     </item>
     
     <item>
       <title>Web Accessibility and HTML5 Boilerplate</title>
-      <link>http://not-so-rashnl.surge.sh/sketchnotes/geekup-2011-web-accessibility-and-html5-boilerplate/</link>
+      <link>http://rasagy.in/sketchnotes/geekup-2011-web-accessibility-and-html5-boilerplate/</link>
       <pubDate>Mon, 26 Dec 2011 01:01:01 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/sketchnotes/geekup-2011-web-accessibility-and-html5-boilerplate/</guid>
+      <guid>http://rasagy.in/sketchnotes/geekup-2011-web-accessibility-and-html5-boilerplate/</guid>
       <description>In October, I attended a Geekup session on Web Accessibility &amp;amp; HTML5 Boilerplate by HasGeek. Here are the 2 Sketchnotes I made.</description>
     </item>
     
     <item>
       <title>Merry Christmas and a Happy New Blog!</title>
-      <link>http://not-so-rashnl.surge.sh/blog/merry-christmas-and-a-happy-new-blog/</link>
+      <link>http://rasagy.in/blog/merry-christmas-and-a-happy-new-blog/</link>
       <pubDate>Sun, 25 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/merry-christmas-and-a-happy-new-blog/</guid>
+      <guid>http://rasagy.in/blog/merry-christmas-and-a-happy-new-blog/</guid>
       <description>What better time to start a new blog, than NOW? Finally, I have one place to archive my thoughts, ideas &amp;amp; sketchnotes.</description>
     </item>
     
     <item>
       <title>Run Chef Run — My game for CodeChef Contest</title>
-      <link>http://not-so-rashnl.surge.sh/blog/run-chef-run-codechef-contest/</link>
+      <link>http://rasagy.in/blog/run-chef-run-codechef-contest/</link>
       <pubDate>Mon, 29 Jun 2009 13:31:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/run-chef-run-codechef-contest/</guid>
+      <guid>http://rasagy.in/blog/run-chef-run-codechef-contest/</guid>
       <description>My entry for CodeChef contest: A game made in Flash.</description>
     </item>
     
     <item>
       <title>Sketch — Goodbye Seniors!</title>
-      <link>http://not-so-rashnl.surge.sh/blog/sketch-goodbye-seniors/</link>
+      <link>http://rasagy.in/blog/sketch-goodbye-seniors/</link>
       <pubDate>Thu, 18 Dec 2008 04:04:04 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/sketch-goodbye-seniors/</guid>
+      <guid>http://rasagy.in/blog/sketch-goodbye-seniors/</guid>
       <description>A quick caricature of two of my favorite seniors.</description>
     </item>
     
     <item>
       <title>Sketch — Thank You, Adil Sir!</title>
-      <link>http://not-so-rashnl.surge.sh/blog/sketch-thank-you-adil-sir/</link>
+      <link>http://rasagy.in/blog/sketch-thank-you-adil-sir/</link>
       <pubDate>Thu, 27 Nov 2008 12:00:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/sketch-thank-you-adil-sir/</guid>
+      <guid>http://rasagy.in/blog/sketch-thank-you-adil-sir/</guid>
       <description>A small sketch for a prof who introduced me to design!</description>
     </item>
     
     <item>
       <title>Farewell, BITS Goa batch of 2005!</title>
-      <link>http://not-so-rashnl.surge.sh/blog/bits-goa-farewell-2005-batch/</link>
+      <link>http://rasagy.in/blog/bits-goa-farewell-2005-batch/</link>
       <pubDate>Sun, 20 Apr 2008 20:08:00 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/bits-goa-farewell-2005-batch/</guid>
+      <guid>http://rasagy.in/blog/bits-goa-farewell-2005-batch/</guid>
       <description>A short note to some of the amazing seniors from 2005 batch that I’ll miss.</description>
     </item>
     
     <item>
       <title>Blog Creation</title>
-      <link>http://not-so-rashnl.surge.sh/blog/blog-creation/</link>
+      <link>http://rasagy.in/blog/blog-creation/</link>
       <pubDate>Fri, 11 Apr 2008 11:04:08 +0530</pubDate>
       
-      <guid>http://not-so-rashnl.surge.sh/blog/blog-creation/</guid>
+      <guid>http://rasagy.in/blog/blog-creation/</guid>
       <description>My first post on my first personal blog!</description>
     </item>
     
