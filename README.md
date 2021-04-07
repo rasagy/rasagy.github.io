@@ -1,11 +1,8 @@
-Repo  for rasagy.github.io
-==========================
+Repo for personal website
+=========================
 
-Currently hosted on [rasagy.in](http://rasagy.in)
+## Setup
 
-Todo:
+**Domain:** My user repo `rasagy.github.io` is mapped to my custom domain: `rasagy.in`.
 
-- Write basic intro
-- Add Social Media links
-- Add starred projects
-- Add portfolio
+**Github Pages + Hugo:** Website is powered by [Hugo](https://gohugo.io/). Hugo config sits in a separate (private) repo, and the published `/public` folder is pushed to this repo.
