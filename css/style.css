@@ -163,6 +163,17 @@ a.home-link:hover > nav {
   color: #444;
 }
 
+.post-content ul,
+.post-content ol {
+  padding-left: 0;
+}
+@media screen and (max-width: 60em) {
+  .post-content ul,
+  .post-content ol {
+    padding-left: 1em;
+  }
+}
+
 /*
   Useful classes for vertical layouts
 */
