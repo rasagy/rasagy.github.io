@@ -30,7 +30,7 @@
 <meta itemprop="name" content="Visualizing T.T. Finals at NID Bangalore">
 <meta itemprop="description" content="Last month, the (newly elected) sports committee of NID Bangalore organized a Table Tennis Tournament. Here’s my first attempt at making a data visualization – Final matches between Amal &amp; Upamanyu."><meta itemprop="datePublished" content="2012-11-08T12:12:12&#43;00:00" />
 <meta itemprop="dateModified" content="2012-11-08T12:12:12&#43;00:00" />
-<meta itemprop="wordCount" content="520"><meta itemprop="image" content="http://rasagy.in"/>
+<meta itemprop="wordCount" content="515"><meta itemprop="image" content="http://rasagy.in"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="http://rasagy.in"/>
@@ -142,7 +142,6 @@
     </figcaption>
     
 </figure>
-
 <p>Still here? Awesome. Here’s a quick look at how I made it:
 The idea was impromptu – I had not planned it, so I didn’t think much about how to record data. I decided to simply make dots: One for each point, in two columns. I kept recording scores after 5 serves (when serve changes) to tally my data.</p>
 
@@ -161,7 +160,6 @@ The idea was impromptu – I had not planned it, so I didn’t think much about 
     </figcaption>
     
 </figure>
-
 <p>This easily translated into a string of 0′s &amp; 1′s: 0 for Upu’s point, 1 for Amal’s point. I typed these into Excel, and let the conditional formatting do some magic.</p>
 
 <figure class="tc mt3 fit">
@@ -179,7 +177,6 @@ The idea was impromptu – I had not planned it, so I didn’t think much about 
     </figcaption>
     
 </figure>
-
 <p>Sweet, eh? The columns are individual points (3 columns), cumulative score of Amal &amp; Upamanyu (4 &amp; 5), relative score (for each of the three matches) It’s the relative score that seemed quite interesting to me (It also highlighted the difference in each match instantly!).
 For more ideas, I tried a few charts. I wanted to highlight two things: the continuous streaks of points, and the relative difference in score throughout the game.</p>
 
@@ -198,27 +195,15 @@ For more ideas, I tried a few charts. I wanted to highlight two things: the cont
     </figcaption>
     
 </figure>
-
 <p>My favorite? A simple line chart (Others seemed harder to understand/biased to one person). Technically, the correct chart to use should be a bar chart (since points are discrete), but the chart looked horrible in Excel (I tried sketching a mix of line &amp; bar chart, which looked more like stairs than a graph). Maybe I’ll try a more <em>honest</em> chart next time!</p>
-<p>With this decided, I tried to re-create the line chart in <a href="http://processing.org/" target="_blank" rel="noreferrer noopener">Processing</a>
-. The advantage was that I could plot it serve by serve, maybe turn it into an interactive visualization later? I also decided to add the relative scores along the X Axis (To emphasize on the lead a bit more). Circles seemed to stand out a bit, which was just what I wanted. Here’s a quick <a href="../assets/TT-Viz-Match-1-Ani.gif">gif animation of the first match</a>
-.</p>
-<p>Finally, I exported (saveFrame) from Processing, added some text in Photoshop, and voila! <a href="../assets/visualizing-table-tennis-finals-at-nid-bangalore/TT-Finals-DataViz-by-Rasagy.png">Here it is!</a>
-</p>
+<p>With this decided, I tried to re-create the line chart in <a href="http://processing.org/" target="_blank" rel="noreferrer noopener">Processing</a>. The advantage was that I could plot it serve by serve, maybe turn it into an interactive visualization later? I also decided to add the relative scores along the X Axis (To emphasize on the lead a bit more). Circles seemed to stand out a bit, which was just what I wanted. Here’s a quick <a href="../assets/TT-Viz-Match-1-Ani.gif">gif animation of the first match</a>.</p>
+<p>Finally, I exported (saveFrame) from Processing, added some text in Photoshop, and voila! <a href="../assets/visualizing-table-tennis-finals-at-nid-bangalore/TT-Finals-DataViz-by-Rasagy.png">Here it is!</a></p>
 <p>This is my first attempt at data visualization (and at making something useful in Processing!), so I’m sure there’s a lot for me to learn. Was the chart hard to understand? Or is there something I could’ve done better? Feel free to comment! :)</p>
 <p>PS. Special thanks to these people:</p>
 <ul>
-<li><a href="https://twitter.com/sanand0" target="_blank" rel="noreferrer noopener">Anand S</a>
- from <a href="http://gramener.com/" target="_blank" rel="noreferrer noopener">Gramener</a>
- for showing me what Excel can really do (while <a href="http://blog.gramener.com/427/student-browsing-patterns" target="_blank" rel="noreferrer noopener">visualizing student browsing patterns</a>
-). Thanks <a href="https://twitter.com/gonsalves_r" target="_blank" rel="noreferrer noopener">Rahul</a>
- for getting me along!</li>
-<li><a href="https://twitter.com/genekogan" target="_blank" rel="noreferrer noopener">Gene Kogan</a>
- for motivating me to finish the Processing code. (He’s running an awesome <a href="http://www.jaaga.in/u-art-technology" target="_blank" rel="noreferrer noopener">Generative Art workshop</a>
- at <a href="http://jaaga.in/" target="_blank" rel="noreferrer noopener">Jaaga</a>
-).</li>
-<li>And <a href="https://twitter.com/audiolize" target="_blank" rel="noreferrer noopener">Amal</a>
-, for defeating me in quarter-finals, so I could make this. :D</li>
+<li><a href="https://twitter.com/sanand0" target="_blank" rel="noreferrer noopener">Anand S</a> from <a href="http://gramener.com/" target="_blank" rel="noreferrer noopener">Gramener</a> for showing me what Excel can really do (while <a href="http://blog.gramener.com/427/student-browsing-patterns" target="_blank" rel="noreferrer noopener">visualizing student browsing patterns</a>). Thanks <a href="https://twitter.com/gonsalves_r" target="_blank" rel="noreferrer noopener">Rahul</a> for getting me along!</li>
+<li><a href="https://twitter.com/genekogan" target="_blank" rel="noreferrer noopener">Gene Kogan</a> for motivating me to finish the Processing code. (He’s running an awesome <a href="http://www.jaaga.in/u-art-technology" target="_blank" rel="noreferrer noopener">Generative Art workshop</a> at <a href="http://jaaga.in/" target="_blank" rel="noreferrer noopener">Jaaga</a>).</li>
+<li>And <a href="https://twitter.com/audiolize" target="_blank" rel="noreferrer noopener">Amal</a>, for defeating me in quarter-finals, so I could make this. :D</li>
 </ul>
 <p>Here’s hoping this is the first of many visualizations. <em>Fingers crossed!</em></p>
 
