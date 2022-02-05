@@ -6,17 +6,7 @@
     <description>Recent content in Community Building on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 22:03:21 +0530</lastBuildDate><atom:link href="http://rasagy.in/community/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction to Data Viz &amp; Creative Coding in P5.js</title>
-      <link>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</link>
-      <pubDate>Mon, 22 Mar 2021 22:03:21 +0530</pubDate>
-      
-      <guid>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</guid>
-      <description>I was invited to lead a 10-day virtual module as part of the Information Visualization - I course for M.Des. Information Design students at NID Bangalore.
- -- More details on course structure &amp;amp; student projects soon.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 05 Nov 2020 20:20:20 +0530</lastBuildDate><atom:link href="http://rasagy.in/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Workshop on Influencing Information</title>
       <link>http://rasagy.in/community/teaching-schematic-mapping-nid-paldi-2020/</link>
@@ -74,12 +64,12 @@ An example looping animation created in workshop   Slides are available on Googl
     
     <item>
       <title>Geo Visualization &amp; Digital Cartography</title>
-      <link>http://rasagy.in/community/teaching-digital-cartography-nid-blr-2019/</link>
+      <link>http://rasagy.in/community/teaching-geoviz-digital-cartography-nid-blr-2019/</link>
       <pubDate>Mon, 30 Dec 2019 19:12:30 +0530</pubDate>
       
-      <guid>http://rasagy.in/community/teaching-digital-cartography-nid-blr-2019/</guid>
-      <description>I was invited back at my alma mater to teach M.Des. Information Design students for their Geo Visualization &amp;amp; Digital Cartography module, led by Prof. Chakradhar Saswade. My sessions focused on an introduction to Cartography, types of Geo Visualization, Sensory Mapping &amp;amp; Schematic Mapping.
-Hometown Schematic Map One of the exercises was to create a schematic map of their hometown, focused on a particular audience &amp;amp; purpose for this map. Some of the selected maps are shared below with their process, and the complete discussion &amp;amp; references are available on this Github issue.</description>
+      <guid>http://rasagy.in/community/teaching-geoviz-digital-cartography-nid-blr-2019/</guid>
+      <description>I was invited back at my alma mater to teach M.Des. Information Design students for their Geo Visualization &amp;amp; Digital Cartography module, led by Prof. Chakradhar Saswade. My sessions focused on an introduction to Cartography, types of Geo Visualization, Schematic Mapping, Sensory Mapping &amp;amp; Choropleths in Excel!
+Hometown Schematic Map One of the exercises was to create a schematic map of their hometown, focused on a particular audience &amp;amp; purpose for this map.</description>
     </item>
     
     <item>

@@ -6,16 +6,7 @@
     <description>Recent content in Community/On on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 22:03:21 +0530</lastBuildDate><atom:link href="http://rasagy.in/community/on/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cartography</title>
-      <link>http://rasagy.in/community/on/cartography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rasagy.in/community/on/cartography/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 05 Nov 2020 20:20:20 +0530</lastBuildDate><atom:link href="http://rasagy.in/community/on/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creative Coding</title>
       <link>http://rasagy.in/community/on/creative-coding/</link>
@@ -49,6 +40,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rasagy.in/community/on/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geo Visualization</title>
+      <link>http://rasagy.in/community/on/geo-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/community/on/geo-visualization/</guid>
       <description></description>
     </item>
     
