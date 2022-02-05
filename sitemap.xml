@@ -2,43 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rasagy.in/about/</loc>
-    <lastmod>2021-04-05T05:04:20+00:00</lastmod>
-  </url><url>
     <loc>http://rasagy.in/community/</loc>
-    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
+    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/community/at/</loc>
-    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
+    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/community/by/</loc>
-    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
+    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/community/on/</loc>
-    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
+    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/</loc>
+    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/community/teaching-geoviz-workshop-idc-2020/</loc>
+    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/outlier-2021-mapping-covid-dataveyes/</loc>
+    <lastmod>2021-07-15T17:42:35+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/</loc>
+    <lastmod>2021-07-15T17:42:35+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/at/</loc>
+    <lastmod>2021-07-15T17:42:35+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/by/</loc>
+    <lastmod>2021-07-15T17:42:35+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/of/</loc>
+    <lastmod>2021-07-15T17:42:35+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/on/</loc>
+    <lastmod>2021-07-15T17:42:35+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/about/</loc>
+    <lastmod>2021-04-05T05:04:20+00:00</lastmod>
   </url><url>
     <loc>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</loc>
     <lastmod>2021-03-22T22:03:21+05:30</lastmod>
   </url><url>
-    <loc>http://rasagy.in/</loc>
-    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
-  </url><url>
     <loc>http://rasagy.in/sketchnotes/outlier-2021-unempathetic-art-mushon/</loc>
-    <lastmod>2021-02-05T15:20:00+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/sketchnotes/</loc>
-    <lastmod>2021-02-05T15:20:00+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/sketchnotes/at/</loc>
-    <lastmod>2021-02-05T15:20:00+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/sketchnotes/by/</loc>
-    <lastmod>2021-02-05T15:20:00+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/sketchnotes/of/</loc>
-    <lastmod>2021-02-05T15:20:00+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/sketchnotes/on/</loc>
     <lastmod>2021-02-05T15:20:00+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/outlier-2021-data-sonification-loud-numbers/</loc>
@@ -62,6 +68,9 @@
     <loc>http://rasagy.in/projects/world-wisdom-map/</loc>
     <lastmod>2020-12-24T23:59:59+05:30</lastmod>
   </url><url>
+    <loc>http://rasagy.in/community/teaching-schematic-mapping-nid-paldi-2020/</loc>
+    <lastmod>2020-11-05T20:20:20+05:30</lastmod>
+  </url><url>
     <loc>http://rasagy.in/community/webinar-data-storytelling-mit-id/</loc>
     <lastmod>2020-08-18T16:30:00+05:30</lastmod>
   </url><url>
@@ -73,6 +82,9 @@
   </url><url>
     <loc>http://rasagy.in/community/workshop-loopimation-pcd-blr-2020/</loc>
     <lastmod>2020-02-09T14:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/community/teaching-digital-cartography-nid-blr-2019/</loc>
+    <lastmod>2019-12-30T19:12:30+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/community/volunteering-ixdd-ibm-2019/</loc>
     <lastmod>2019-09-24T17:30:00+05:30</lastmod>
@@ -140,6 +152,8 @@
   </url><url>
     <loc>http://rasagy.in/blog/tags/bits/</loc>
   </url><url>
+    <loc>http://rasagy.in/community/on/cartography/</loc>
+  </url><url>
     <loc>http://rasagy.in/projects/in/creative-coding/</loc>
   </url><url>
     <loc>http://rasagy.in/community/on/creative-coding/</loc>
@@ -174,6 +188,10 @@
   </url><url>
     <loc>http://rasagy.in/sketchnotes/by/duncan-geere/</loc>
   </url><url>
+    <loc>http://rasagy.in/sketchnotes/at/event/</loc>
+  </url><url>
+    <loc>http://rasagy.in/community/at/event/</loc>
+  </url><url>
     <loc>http://rasagy.in/community/at/facebook/</loc>
   </url><url>
     <loc>http://rasagy.in/blog/tags/flash/</loc>
@@ -202,9 +220,13 @@
   </url><url>
     <loc>http://rasagy.in/community/at/nid-blr/</loc>
   </url><url>
+    <loc>http://rasagy.in/community/at/nid-paldi/</loc>
+  </url><url>
     <loc>http://rasagy.in/sketchnotes/at/outlier-2021/</loc>
   </url><url>
     <loc>http://rasagy.in/community/at/pcd/</loc>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/by/people/</loc>
   </url><url>
     <loc>http://rasagy.in/blog/tags/process/</loc>
   </url><url>
@@ -216,6 +238,10 @@
   </url><url>
     <loc>http://rasagy.in/sketchnotes/by/sara-eichner/</loc>
   </url><url>
+    <loc>http://rasagy.in/community/on/schematic-mapping/</loc>
+  </url><url>
+    <loc>http://rasagy.in/community/on/sensory-mapping/</loc>
+  </url><url>
     <loc>http://rasagy.in/community/at/spa-bhopal/</loc>
   </url><url>
     <loc>http://rasagy.in/community/by/speaking/</loc>
@@ -223,6 +249,14 @@
     <loc>http://rasagy.in/sketchnotes/of/talk/</loc>
   </url><url>
     <loc>http://rasagy.in/community/by/teaching/</loc>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/on/topics/</loc>
+  </url><url>
+    <loc>http://rasagy.in/community/on/topics/</loc>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/of/type/</loc>
+  </url><url>
+    <loc>http://rasagy.in/community/by/type/</loc>
   </url><url>
     <loc>http://rasagy.in/blog/tags/typography/</loc>
   </url><url>

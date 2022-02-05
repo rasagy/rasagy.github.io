@@ -6,7 +6,25 @@
     <description>Recent content on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 22:03:21 +0530</lastBuildDate><atom:link href="http://rasagy.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Feb 2022 09:33:13 +0530</lastBuildDate><atom:link href="http://rasagy.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching Geoviz Workshop Idc 2020</title>
+      <link>http://rasagy.in/community/teaching-geoviz-workshop-idc-2020/</link>
+      <pubDate>Sat, 05 Feb 2022 09:33:13 +0530</pubDate>
+      
+      <guid>http://rasagy.in/community/teaching-geoviz-workshop-idc-2020/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Outlier 2021 Mapping Covid Dataveyes</title>
+      <link>http://rasagy.in/sketchnotes/outlier-2021-mapping-covid-dataveyes/</link>
+      <pubDate>Thu, 15 Jul 2021 17:42:35 +0530</pubDate>
+      
+      <guid>http://rasagy.in/sketchnotes/outlier-2021-mapping-covid-dataveyes/</guid>
+      <description> Sketchnote of   You can watch a video of the talk on Youtube:   </description>
+    </item>
+    
     <item>
       <title>About Rasagy Sharma</title>
       <link>http://rasagy.in/about/</link>
@@ -82,6 +100,17 @@ What I loved was their process of creating these beautiful data stories:</descri
     </item>
     
     <item>
+      <title>Design Workshop on Influencing Information</title>
+      <link>http://rasagy.in/community/teaching-schematic-mapping-nid-paldi-2020/</link>
+      <pubDate>Thu, 05 Nov 2020 20:20:20 +0530</pubDate>
+      
+      <guid>http://rasagy.in/community/teaching-schematic-mapping-nid-paldi-2020/</guid>
+      <description>I was invited to conduct a two-week virtual Design Workshop at National Institute of Design, Ahmedabad for B.Des. 7th sem students.
+My workshop focused on an introduction to Data Visualization, Visual Encoding, Data Storytelling &amp;amp; Cartography.
+Hometown Schematic Map One of the exercises done in the workshop was to create a schematic map of their hometown, focused on a particular audience &amp;amp; purpose for this map. Some of the selected maps are shared below with their process, and the complete discussion &amp;amp; references are available on this Github issue.</description>
+    </item>
+    
+    <item>
       <title>Webinar — What stories can you narrate with data?</title>
       <link>http://rasagy.in/community/webinar-data-storytelling-mit-id/</link>
       <pubDate>Tue, 18 Aug 2020 16:30:00 +0530</pubDate>
@@ -123,6 +152,16 @@ I spoke about how maps are inherently a form of data visualization, and how they
 Talking about historical techniques for animations   You can explore some of the example starter P5.js sketches, using the wonderful p5.createLoop library.
 An example looping animation created in workshop   Slides are available on Google Slides:
  You can also download &amp;amp; print my storyboarding template for planning your animations.</description>
+    </item>
+    
+    <item>
+      <title>Geo Visualization &amp; Digital Cartography</title>
+      <link>http://rasagy.in/community/teaching-digital-cartography-nid-blr-2019/</link>
+      <pubDate>Mon, 30 Dec 2019 19:12:30 +0530</pubDate>
+      
+      <guid>http://rasagy.in/community/teaching-digital-cartography-nid-blr-2019/</guid>
+      <description>I was invited back at my alma mater to teach M.Des. Information Design students for their Geo Visualization &amp;amp; Digital Cartography module, led by Prof. Chakradhar Saswade. My sessions focused on an introduction to Cartography, types of Geo Visualization, Sensory Mapping &amp;amp; Schematic Mapping.
+Hometown Schematic Map One of the exercises was to create a schematic map of their hometown, focused on a particular audience &amp;amp; purpose for this map. Some of the selected maps are shared below with their process, and the complete discussion &amp;amp; references are available on this Github issue.</description>
     </item>
     
     <item>
