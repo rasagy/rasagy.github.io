@@ -2,25 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rasagy.in/community/</loc>
-    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/community/at/</loc>
-    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/community/by/</loc>
-    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/community/on/</loc>
-    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
+    <loc>http://rasagy.in/sketchnotes/outlier-2021-mapping-covid-dataveyes/</loc>
+    <lastmod>2021-07-15T17:42:35+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/</loc>
-    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/community/teaching-geoviz-workshop-idc-2020/</loc>
-    <lastmod>2022-02-05T09:33:13+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/sketchnotes/outlier-2021-mapping-covid-dataveyes/</loc>
     <lastmod>2021-07-15T17:42:35+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/</loc>
@@ -40,6 +25,18 @@
   </url><url>
     <loc>http://rasagy.in/about/</loc>
     <lastmod>2021-04-05T05:04:20+00:00</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/community/</loc>
+    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/community/at/</loc>
+    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/community/by/</loc>
+    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/community/on/</loc>
+    <lastmod>2021-03-22T22:03:21+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/community/teaching-data-viz-creative-coding-nid-blr-2021/</loc>
     <lastmod>2021-03-22T22:03:21+05:30</lastmod>
@@ -88,9 +85,6 @@
   </url><url>
     <loc>http://rasagy.in/community/volunteering-ixdd-ibm-2019/</loc>
     <lastmod>2019-09-24T17:30:00+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/community/volunteering-designing-for-data-fb/</loc>
-    <lastmod>2019-09-18T17:00:00+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/projects/data-n-coded/</loc>
     <lastmod>2019-08-01T01:02:03+05:30</lastmod>
@@ -190,10 +184,6 @@
   </url><url>
     <loc>http://rasagy.in/sketchnotes/at/event/</loc>
   </url><url>
-    <loc>http://rasagy.in/community/at/event/</loc>
-  </url><url>
-    <loc>http://rasagy.in/community/at/facebook/</loc>
-  </url><url>
     <loc>http://rasagy.in/blog/tags/flash/</loc>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/at/geekup-2011/</loc>
@@ -252,11 +242,7 @@
   </url><url>
     <loc>http://rasagy.in/sketchnotes/on/topics/</loc>
   </url><url>
-    <loc>http://rasagy.in/community/on/topics/</loc>
-  </url><url>
     <loc>http://rasagy.in/sketchnotes/of/type/</loc>
-  </url><url>
-    <loc>http://rasagy.in/community/by/type/</loc>
   </url><url>
     <loc>http://rasagy.in/blog/tags/typography/</loc>
   </url><url>
