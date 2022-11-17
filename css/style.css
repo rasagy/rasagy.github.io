@@ -254,11 +254,35 @@ a.home-link:hover > nav {
 }
 
 .post-content blockquote {
-  margin: 1rem auto;
+  margin: 0.5rem auto;
   text-align: left;
   font-size: 1.5em;
   line-height: 1.4;
   color: #444;
+  quotes: "“" "”" "‘" "’";
+}
+
+.post-content blockquote p {
+  position: relative;
+}
+
+.post-content blockquote p::before {
+  content: open-quote;
+  font-family: 'Satoshi', Georgia, serif;
+  font-size: 2.75em;
+  line-height: 1em;
+  position: absolute;
+  top: 0;
+  left: -0.45em;
+}
+
+.post-content blockquote p::after {
+  content: close-quote;
+  font-family: 'Satoshi', Georgia, serif;
+  font-size: 2.75em;
+  line-height: 1em;
+  position: absolute;
+  bottom: -0.5em;
 }
 
 .post-content ul,
