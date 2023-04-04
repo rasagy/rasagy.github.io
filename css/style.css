@@ -84,11 +84,6 @@ a.home-link:hover > nav {
     grid-template-rows: repeat(4, minmax(10em, 1fr));
     gap: 0 0.5em;
     grid-auto-flow: row;
-    /*grid-template-areas:
-      "title section-1"
-      "title section-2"
-      "section-large section-3"
-      "section-large section-4";*/
     grid-template-areas:
       "title title section-1"
       "title title section-2"

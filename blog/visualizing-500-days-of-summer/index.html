@@ -37,8 +37,8 @@
 <meta name="theme-color" content="#ffffff">
 
 <meta itemprop="name" content="Visualizing 500 Days of Summer">
-<meta itemprop="description" content="This semester began with a module on Narratives, and when I got a chance to pick a topic for my Information Visualization module, I just had to visualize this movie’s non-linear narrative!"><meta itemprop="datePublished" content="2013-09-30T23:22:21&#43;00:00" />
-<meta itemprop="dateModified" content="2013-09-30T23:22:21&#43;00:00" />
+<meta itemprop="description" content="This semester began with a module on Narratives, and when I got a chance to pick a topic for my Information Visualization module, I just had to visualize this movie’s non-linear narrative!"><meta itemprop="datePublished" content="2013-09-30T23:22:21+00:00" />
+<meta itemprop="dateModified" content="2013-09-30T23:22:21+00:00" />
 <meta itemprop="wordCount" content="1213"><meta itemprop="image" content="http://rasagy.in"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
@@ -272,8 +272,8 @@
     
 </figure>
 <p>Making the arcs took some time, since I wasn’t used to SVG’s Arcs (paths!), and couldn’t figure out how to use the .attr() to define the coordinates. Instead, I referred to <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes" target="_blank" rel="noreferrer noopener">MDN</a> &amp; ended up writing it as:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#34;M &#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">prevX</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34; &#34;</span><span style="color:#f92672">+</span>(<span style="color:#a6e22e">h</span><span style="color:#f92672">/</span><span style="color:#ae81ff">2</span>)<span style="color:#f92672">+</span><span style="color:#e6db74">&#34; A &#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">r</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34; &#34;</span><span style="color:#f92672">+</span>(<span style="color:#a6e22e">r</span>)<span style="color:#f92672">+</span><span style="color:#e6db74">&#34; 0 0 1 &#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">nextX</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34; &#34;</span><span style="color:#f92672">+</span>(<span style="color:#a6e22e">h</span><span style="color:#f92672">/</span><span style="color:#ae81ff">2</span>);
-</code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#34;M &#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">prevX</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34; &#34;</span><span style="color:#f92672">+</span>(<span style="color:#a6e22e">h</span><span style="color:#f92672">/</span><span style="color:#ae81ff">2</span>)<span style="color:#f92672">+</span><span style="color:#e6db74">&#34; A &#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">r</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34; &#34;</span><span style="color:#f92672">+</span>(<span style="color:#a6e22e">r</span>)<span style="color:#f92672">+</span><span style="color:#e6db74">&#34; 0 0 1 &#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">nextX</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34; &#34;</span><span style="color:#f92672">+</span>(<span style="color:#a6e22e">h</span><span style="color:#f92672">/</span><span style="color:#ae81ff">2</span>);
+</span></span></code></pre></div>
 <figure class="tc mt3 fit">
     
         <img src="../assets/visualizing-500-days-of-summer/500-days-arcs.png" alt="Arcs in SVG" />

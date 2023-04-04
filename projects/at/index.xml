@@ -6,7 +6,16 @@
     <description>Recent content in Projects/At on Rasagy Sharma | Information Designer, Data Artist, Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 23:59:59 +0530</lastBuildDate><atom:link href="http://rasagy.in/projects/at/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 10:10:10 +0530</lastBuildDate><atom:link href="http://rasagy.in/projects/at/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepHack</title>
+      <link>http://rasagy.in/projects/at/deephack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/deephack/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>NID</title>
       <link>http://rasagy.in/projects/at/nid/</link>
