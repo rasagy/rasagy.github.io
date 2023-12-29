@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-initiated on Rasagy Sharma | Information Designer, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <link>http://rasagy.in/projects/at/self-initiated/</link>
+    <description>Recent content in Self-initiated on Rasagy Sharma | Information Designer, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rasagy.in/projects/at/self-initiated/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data.n.coded — collection of creative coding experiments</title>
+      <link>http://rasagy.in/projects/data-n-coded/</link>
+      <pubDate>Thu, 01 Aug 2019 01:02:03 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/data-n-coded/</guid>
+      <description>Home for my experiments with generative &amp;amp; data art in P5.js</description>
+    </item>
+    
+  </channel>
+</rss>
