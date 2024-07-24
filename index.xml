@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rasagy Sharma | Information Designer, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <title>Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</title>
     <link>http://rasagy.in/</link>
-    <description>Recent content on Rasagy Sharma | Information Designer, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <description>Recent content on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Apr 2024 18:06:06 +0530</lastBuildDate><atom:link href="http://rasagy.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Rasagy Sharma</title>
+      <link>http://rasagy.in/about/</link>
+      <pubDate>Mon, 01 Jul 2024 05:04:30 +0000</pubDate>
+      
+      <guid>http://rasagy.in/about/</guid>
+      <description>Rasagy is a Design Leader, Data Artist, Design Educator &amp;amp; Sketchnoter.</description>
+    </item>
+    
     <item>
       <title>Fireside Chat with Simona Maschi (CIID)</title>
       <link>http://rasagy.in/sketchnotes/accel-2024-fireside-chat-simona-maschi/</link>
@@ -41,15 +50,6 @@
       
       <guid>http://rasagy.in/projects/datta/</guid>
       <description>A comic about mythology of data, created with AI tools by Rasagy Sharma</description>
-    </item>
-    
-    <item>
-      <title>About Rasagy Sharma</title>
-      <link>http://rasagy.in/about/</link>
-      <pubDate>Thu, 02 Mar 2023 05:04:30 +0000</pubDate>
-      
-      <guid>http://rasagy.in/about/</guid>
-      <description>Rasagy is an Information Designer, Data Artist, Design Educator &amp;amp; Compulsive Sketchnoter.</description>
     </item>
     
     <item>

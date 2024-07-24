@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rasagy.in/about/</loc>
+    <lastmod>2024-07-01T05:04:30+00:00</lastmod>
+  </url><url>
     <loc>http://rasagy.in/sketchnotes/accel-2024-fireside-chat-simona-maschi/</loc>
     <lastmod>2024-04-06T18:06:06+05:30</lastmod>
   </url><url>
@@ -40,9 +43,6 @@
   </url><url>
     <loc>http://rasagy.in/projects/datta/</loc>
     <lastmod>2023-04-01T10:10:10+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/about/</loc>
-    <lastmod>2023-03-02T05:04:30+00:00</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/outlier-2021-unempathetic-art-mushon/</loc>
     <lastmod>2021-02-05T15:20:00+05:30</lastmod>
