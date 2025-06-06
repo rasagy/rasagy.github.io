@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polis Project on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <link>http://rasagy.in/projects/at/polis-project/</link>
+    <description>Recent content in Polis Project on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rasagy.in/projects/at/polis-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping Patterns of Violence Against Journalists in India</title>
+      <link>http://rasagy.in/projects/violence-against-journalists-map/</link>
+      <pubDate>Mon, 01 Nov 2021 01:01:01 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/violence-against-journalists-map/</guid>
+      <description>What kinds of violence does a typical journalist in India face while doing their job? Mapping 250+ incidences of assaults, threats, detention, arrests &amp;amp; more.</description>
+    </item>
+    
+  </channel>
+</rss>

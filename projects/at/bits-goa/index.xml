@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BITS Goa on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <link>http://rasagy.in/projects/at/bits-goa/</link>
+    <description>Recent content in BITS Goa on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rasagy.in/projects/at/bits-goa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Run Chef Run: A side-scroller game about coding</title>
+      <link>http://rasagy.in/projects/flash-run-chef-run/</link>
+      <pubDate>Fri, 29 May 2009 00:18:56 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/flash-run-chef-run/</guid>
+      <description>A short side scroller game about a chef jumping over binary heaps and sliding under dangling pointers, made for a CodeChef contest using ActionScript in Flash.</description>
+    </item>
+    
+  </channel>
+</rss>

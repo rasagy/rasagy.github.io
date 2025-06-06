@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Journalism on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <link>http://rasagy.in/projects/in/data-journalism/</link>
+    <description>Recent content in Data Journalism on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rasagy.in/projects/in/data-journalism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping Patterns of Violence Against Journalists in India</title>
+      <link>http://rasagy.in/projects/violence-against-journalists-map/</link>
+      <pubDate>Mon, 01 Nov 2021 01:01:01 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/violence-against-journalists-map/</guid>
+      <description>What kinds of violence does a typical journalist in India face while doing their job? Mapping 250+ incidences of assaults, threats, detention, arrests &amp;amp; more.</description>
+    </item>
+    
+    <item>
+      <title>A cleaner Ganga: Visualizing NDA’s unfulfilled promise</title>
+      <link>http://rasagy.in/projects/mint-ganga/</link>
+      <pubDate>Mon, 29 Apr 2019 19:04:29 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mint-ganga/</guid>
+      <description>Explore the project View the digital article</description>
+    </item>
+    
+  </channel>
+</rss>

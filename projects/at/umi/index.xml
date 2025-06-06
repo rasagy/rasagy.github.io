@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UMI on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <link>http://rasagy.in/projects/at/umi/</link>
+    <description>Recent content in UMI on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rasagy.in/projects/at/umi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing how Indians travel in different cities</title>
+      <link>http://rasagy.in/projects/mapping-transport-mode-share-india/</link>
+      <pubDate>Thu, 20 Nov 2014 01:02:03 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mapping-transport-mode-share-india/</guid>
+      <description>Explore the project View poster</description>
+    </item>
+    
+  </channel>
+</rss>

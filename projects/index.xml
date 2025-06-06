@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Apr 2023 10:10:10 +0530</lastBuildDate><atom:link href="http://rasagy.in/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tale of Datta — AI-generated comic on mythology of data</title>
+      <title>Tale of Datta: AI-generated comic on mythology of data</title>
       <link>http://rasagy.in/projects/datta/</link>
       <pubDate>Sat, 01 Apr 2023 10:10:10 +0530</pubDate>
       
@@ -17,7 +17,16 @@
     </item>
     
     <item>
-      <title>World Wisdom Map — Repository of life lessons &amp; insights</title>
+      <title>Mapping Patterns of Violence Against Journalists in India</title>
+      <link>http://rasagy.in/projects/violence-against-journalists-map/</link>
+      <pubDate>Mon, 01 Nov 2021 01:01:01 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/violence-against-journalists-map/</guid>
+      <description>What kinds of violence does a typical journalist in India face while doing their job? Mapping 250+ incidences of assaults, threats, detention, arrests &amp;amp; more.</description>
+    </item>
+    
+    <item>
+      <title>World Wisdom Map: Repository of life lessons &amp; insights</title>
       <link>http://rasagy.in/projects/world-wisdom-map/</link>
       <pubDate>Thu, 24 Dec 2020 23:59:59 +0530</pubDate>
       
@@ -26,12 +35,84 @@
     </item>
     
     <item>
-      <title>data.n.coded — collection of creative coding experiments</title>
+      <title>data.n.coded: collection of creative coding experiments</title>
       <link>http://rasagy.in/projects/data-n-coded/</link>
       <pubDate>Thu, 01 Aug 2019 01:02:03 +0530</pubDate>
       
       <guid>http://rasagy.in/projects/data-n-coded/</guid>
       <description>Home for my experiments with generative &amp;amp; data art in P5.js</description>
+    </item>
+    
+    <item>
+      <title>A cleaner Ganga: Visualizing NDA’s unfulfilled promise</title>
+      <link>http://rasagy.in/projects/mint-ganga/</link>
+      <pubDate>Mon, 29 Apr 2019 19:04:29 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mint-ganga/</guid>
+      <description>Explore the project View the digital article</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Traffic Fatalities in Washington D.C.</title>
+      <link>http://rasagy.in/projects/mapbox-dc-traffic-map/</link>
+      <pubDate>Sun, 01 Oct 2017 00:20:24 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mapbox-dc-traffic-map/</guid>
+      <description>What if you could map every traffic accident? A smart city project using open data from DDoT, Washington D.C.</description>
+    </item>
+    
+    <item>
+      <title>Redesigning OSMCha: Human-in-the-loop tool for OpenStreetMap QA</title>
+      <link>http://rasagy.in/projects/mapbox-osmcha/</link>
+      <pubDate>Sun, 27 Aug 2017 00:10:31 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mapbox-osmcha/</guid>
+      <description>(More details soon)</description>
+    </item>
+    
+    <item>
+      <title>This was once home: Memory Mapping</title>
+      <link>http://rasagy.in/projects/home/</link>
+      <pubDate>Thu, 20 Apr 2017 20:15:03 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/home/</guid>
+      <description>What would a map of your memories of home look like? A memory map of my time at Magarpatta City in Pune.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Effects of War on Migration &amp; GDP</title>
+      <link>http://rasagy.in/projects/tableau-madta-war-migration-gdp/</link>
+      <pubDate>Wed, 25 May 2016 00:15:00 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/tableau-madta-war-migration-gdp/</guid>
+      <description>Explore the project View the dashboard here</description>
+    </item>
+    
+    <item>
+      <title>Road Rage: Visualizing road accidents in U.K.</title>
+      <link>http://rasagy.in/projects/tableau-uk-road-accidents/</link>
+      <pubDate>Thu, 28 Apr 2016 19:47:47 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/tableau-uk-road-accidents/</guid>
+      <description>Tableau dashboard visualizing insights from the road accident data for U.K. in the year 2014 for the Data Visualization Hackathon at Barclays.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing how Indians travel in different cities</title>
+      <link>http://rasagy.in/projects/mapping-transport-mode-share-india/</link>
+      <pubDate>Thu, 20 Nov 2014 01:02:03 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mapping-transport-mode-share-india/</guid>
+      <description>Explore the project View poster</description>
+    </item>
+    
+    <item>
+      <title>Visualizing the 12th Five Year Plan by Indian government</title>
+      <link>http://rasagy.in/projects/hack-the-plan-infographic/</link>
+      <pubDate>Wed, 05 Feb 2014 05:02:14 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/hack-the-plan-infographic/</guid>
+      <description>Explore the project Read more about the project</description>
     </item>
     
     <item>
@@ -41,6 +122,33 @@
       
       <guid>http://rasagy.in/projects/500days/</guid>
       <description>Visualization of the non-linear narrative of the movie: 500 Days of Summer</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Trains from Indian Metros</title>
+      <link>http://rasagy.in/projects/visualizing-trains/</link>
+      <pubDate>Tue, 30 Jul 2013 04:04:04 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/visualizing-trains/</guid>
+      <description>How are the four major Indian metro cities connected with rest of the country through trains? A data art piece on reverse migration, post-colonial development and cartograms.</description>
+    </item>
+    
+    <item>
+      <title>Viznam: Explorations around visualizing names in abstract forms</title>
+      <link>http://rasagy.in/projects/viznam/</link>
+      <pubDate>Tue, 04 Dec 2012 00:04:12 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/viznam/</guid>
+      <description>More details soon!</description>
+    </item>
+    
+    <item>
+      <title>Run Chef Run: A side-scroller game about coding</title>
+      <link>http://rasagy.in/projects/flash-run-chef-run/</link>
+      <pubDate>Fri, 29 May 2009 00:18:56 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/flash-run-chef-run/</guid>
+      <description>A short side scroller game about a chef jumping over binary heaps and sliding under dangling pointers, made for a CodeChef contest using ActionScript in Flash.</description>
     </item>
     
   </channel>

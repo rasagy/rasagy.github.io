@@ -7,12 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://rasagy.in/projects/in/creative-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>data.n.coded — collection of creative coding experiments</title>
+      <title>Mapping Patterns of Violence Against Journalists in India</title>
+      <link>http://rasagy.in/projects/violence-against-journalists-map/</link>
+      <pubDate>Mon, 01 Nov 2021 01:01:01 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/violence-against-journalists-map/</guid>
+      <description>What kinds of violence does a typical journalist in India face while doing their job? Mapping 250+ incidences of assaults, threats, detention, arrests &amp;amp; more.</description>
+    </item>
+    
+    <item>
+      <title>data.n.coded: collection of creative coding experiments</title>
       <link>http://rasagy.in/projects/data-n-coded/</link>
       <pubDate>Thu, 01 Aug 2019 01:02:03 +0530</pubDate>
       
       <guid>http://rasagy.in/projects/data-n-coded/</guid>
       <description>Home for my experiments with generative &amp;amp; data art in P5.js</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Traffic Fatalities in Washington D.C.</title>
+      <link>http://rasagy.in/projects/mapbox-dc-traffic-map/</link>
+      <pubDate>Sun, 01 Oct 2017 00:20:24 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mapbox-dc-traffic-map/</guid>
+      <description>What if you could map every traffic accident? A smart city project using open data from DDoT, Washington D.C.</description>
+    </item>
+    
+    <item>
+      <title>This was once home: Memory Mapping</title>
+      <link>http://rasagy.in/projects/home/</link>
+      <pubDate>Thu, 20 Apr 2017 20:15:03 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/home/</guid>
+      <description>What would a map of your memories of home look like? A memory map of my time at Magarpatta City in Pune.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Trains from Indian Metros</title>
+      <link>http://rasagy.in/projects/visualizing-trains/</link>
+      <pubDate>Tue, 30 Jul 2013 04:04:04 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/visualizing-trains/</guid>
+      <description>How are the four major Indian metro cities connected with rest of the country through trains? A data art piece on reverse migration, post-colonial development and cartograms.</description>
+    </item>
+    
+    <item>
+      <title>Viznam: Explorations around visualizing names in abstract forms</title>
+      <link>http://rasagy.in/projects/viznam/</link>
+      <pubDate>Tue, 04 Dec 2012 00:04:12 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/viznam/</guid>
+      <description>More details soon!</description>
+    </item>
+    
+    <item>
+      <title>Run Chef Run: A side-scroller game about coding</title>
+      <link>http://rasagy.in/projects/flash-run-chef-run/</link>
+      <pubDate>Fri, 29 May 2009 00:18:56 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/flash-run-chef-run/</guid>
+      <description>A short side scroller game about a chef jumping over binary heaps and sliding under dangling pointers, made for a CodeChef contest using ActionScript in Flash.</description>
     </item>
     
   </channel>

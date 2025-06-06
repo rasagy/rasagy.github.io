@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mapbox on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <link>http://rasagy.in/projects/at/mapbox/</link>
+    <description>Recent content in Mapbox on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rasagy.in/projects/at/mapbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing Traffic Fatalities in Washington D.C.</title>
+      <link>http://rasagy.in/projects/mapbox-dc-traffic-map/</link>
+      <pubDate>Sun, 01 Oct 2017 00:20:24 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mapbox-dc-traffic-map/</guid>
+      <description>What if you could map every traffic accident? A smart city project using open data from DDoT, Washington D.C.</description>
+    </item>
+    
+    <item>
+      <title>Redesigning OSMCha: Human-in-the-loop tool for OpenStreetMap QA</title>
+      <link>http://rasagy.in/projects/mapbox-osmcha/</link>
+      <pubDate>Sun, 27 Aug 2017 00:10:31 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/mapbox-osmcha/</guid>
+      <description>(More details soon)</description>
+    </item>
+    
+  </channel>
+</rss>

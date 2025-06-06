@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Apr 2023 10:10:10 +0530</lastBuildDate><atom:link href="http://rasagy.in/projects/at/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Barclays</title>
+      <link>http://rasagy.in/projects/at/barclays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/barclays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BITS Goa</title>
+      <link>http://rasagy.in/projects/at/bits-goa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/bits-goa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DeepHack</title>
       <link>http://rasagy.in/projects/at/deephack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17,11 +35,47 @@
     </item>
     
     <item>
+      <title>Hackathon</title>
+      <link>http://rasagy.in/projects/at/hackathon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapbox</title>
+      <link>http://rasagy.in/projects/at/mapbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/mapbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mint</title>
+      <link>http://rasagy.in/projects/at/mint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/mint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NID</title>
       <link>http://rasagy.in/projects/at/nid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rasagy.in/projects/at/nid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polis Project</title>
+      <link>http://rasagy.in/projects/at/polis-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/polis-project/</guid>
       <description></description>
     </item>
     
@@ -40,6 +94,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rasagy.in/projects/at/self-initiated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMI</title>
+      <link>http://rasagy.in/projects/at/umi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rasagy.in/projects/at/umi/</guid>
       <description></description>
     </item>
     

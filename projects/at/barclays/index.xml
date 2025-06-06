@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barclays on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</title>
+    <link>http://rasagy.in/projects/at/barclays/</link>
+    <description>Recent content in Barclays on Rasagy Sharma | Design Leader, Data Artist, Design Educator &amp; Sketchnoter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rasagy.in/projects/at/barclays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing Effects of War on Migration &amp; GDP</title>
+      <link>http://rasagy.in/projects/tableau-madta-war-migration-gdp/</link>
+      <pubDate>Wed, 25 May 2016 00:15:00 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/tableau-madta-war-migration-gdp/</guid>
+      <description>Explore the project View the dashboard here</description>
+    </item>
+    
+    <item>
+      <title>Road Rage: Visualizing road accidents in U.K.</title>
+      <link>http://rasagy.in/projects/tableau-uk-road-accidents/</link>
+      <pubDate>Thu, 28 Apr 2016 19:47:47 +0530</pubDate>
+      
+      <guid>http://rasagy.in/projects/tableau-uk-road-accidents/</guid>
+      <description>Tableau dashboard visualizing insights from the road accident data for U.K. in the year 2014 for the Data Visualization Hackathon at Barclays.</description>
+    </item>
+    
+  </channel>
+</rss>
