@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rasagy.in/blog/</loc>
+    <lastmod>2025-10-04T16:47:45+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/blog/tags/</loc>
+    <lastmod>2025-10-04T16:47:45+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/blog/list-sketchnoters/</loc>
+    <lastmod>2025-10-04T16:47:45+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/</loc>
+    <lastmod>2025-10-04T16:47:45+05:30</lastmod>
+  </url><url>
     <loc>http://rasagy.in/about/</loc>
     <lastmod>2024-07-01T05:04:30+00:00</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/accel-2024-fireside-chat-simona-maschi/</loc>
-    <lastmod>2024-04-06T18:06:06+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/</loc>
     <lastmod>2024-04-06T18:06:06+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/</loc>
@@ -124,12 +133,6 @@
   </url><url>
     <loc>http://rasagy.in/projects/hack-the-plan-infographic/</loc>
     <lastmod>2014-02-05T05:02:14+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/blog/</loc>
-    <lastmod>2013-09-30T23:22:21+00:00</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/blog/tags/</loc>
-    <lastmod>2013-09-30T23:22:21+00:00</lastmod>
   </url><url>
     <loc>http://rasagy.in/blog/visualizing-500-days-of-summer/</loc>
     <lastmod>2013-09-30T23:22:21+00:00</lastmod>
@@ -270,6 +273,8 @@
     <loc>http://rasagy.in/sketchnotes/by/isabella-chua/</loc>
   </url><url>
     <loc>http://rasagy.in/community/at/ixda/</loc>
+  </url><url>
+    <loc>http://rasagy.in/blog/tags/lists/</loc>
   </url><url>
     <loc>http://rasagy.in/projects/at/mapbox/</loc>
   </url><url>
