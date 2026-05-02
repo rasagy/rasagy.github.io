@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rasagy.in/sketchnotes/love-letter-to-indiewebclub/</loc>
+    <lastmod>2026-05-02T16:20:02+05:30</lastmod>
+  </url><url>
     <loc>http://rasagy.in/</loc>
-    <lastmod>2025-11-14T14:14:14+05:30</lastmod>
+    <lastmod>2026-05-02T16:20:02+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/</loc>
-    <lastmod>2025-11-14T14:14:14+05:30</lastmod>
+    <lastmod>2026-05-02T16:20:02+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/at/</loc>
-    <lastmod>2025-11-14T14:14:14+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/sketchnotes/by/</loc>
-    <lastmod>2025-11-14T14:14:14+05:30</lastmod>
+    <lastmod>2026-05-02T16:20:02+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/of/</loc>
-    <lastmod>2025-11-14T14:14:14+05:30</lastmod>
+    <lastmod>2026-05-02T16:20:02+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/on/</loc>
+    <lastmod>2026-05-02T16:20:02+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/by/</loc>
     <lastmod>2025-11-14T14:14:14+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/uber-design-night-ai-2025/</loc>
@@ -284,6 +287,10 @@
   </url><url>
     <loc>http://rasagy.in/community/by/hosting/</loc>
   </url><url>
+    <loc>http://rasagy.in/sketchnotes/at/indiewebclub/</loc>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/on/internet/</loc>
+  </url><url>
     <loc>http://rasagy.in/sketchnotes/by/isabella-chua/</loc>
   </url><url>
     <loc>http://rasagy.in/community/at/ixda/</loc>
@@ -297,6 +304,8 @@
     <loc>http://rasagy.in/projects/in/maps/</loc>
   </url><url>
     <loc>http://rasagy.in/community/on/maps/</loc>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/of/meetup/</loc>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/by/mick-yang/</loc>
   </url><url>
