@@ -306,3 +306,35 @@ a.home-link:hover > nav {
 }
 
 .min-vh { min-height: 80vh; }
+
+/*
+  Floating image preview on list pages
+  Shown when hovering a post link that has `image:` set in frontmatter.
+  JS adds/removes .is-visible; pointer-events: none prevents hover interference.
+*/
+#post-preview {
+  position: fixed;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  z-index: 100;
+  border: 2px solid #001B44;
+  box-shadow: 4px 8px 24px rgba(0, 0, 0, 0.25);
+  background: #fff;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+#post-preview.is-visible {
+  opacity: 1;
+}
+#post-preview img {
+  display: block;
+  width: 343px;
+  height: 180px; /* 343 / 1.91 ≈ 180 — matches OG image 1.91:1 ratio */
+  object-fit: cover;
+  /* crossfade when switching between posts; duration must match JS_IMG_FADE_MS */
+  transition: opacity 0.3s ease-in-out;
+}
+#post-preview img.is-fading {
+  opacity: 0;
+}
