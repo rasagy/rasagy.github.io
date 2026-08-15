@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rasagy.in/sketchnotes/love-letter-to-indiewebclub/</loc>
-    <lastmod>2026-05-02T16:20:02+05:30</lastmod>
-  </url><url>
     <loc>http://rasagy.in/</loc>
+    <lastmod>2026-08-15T08:08:26+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/weeknotes/20260808/</loc>
+    <lastmod>2026-08-15T08:08:26+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/weeknotes/</loc>
+    <lastmod>2026-08-15T08:08:26+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/weeknotes/20260801/</loc>
+    <lastmod>2026-08-08T08:01:26+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/sketchnotes/love-letter-to-indiewebclub/</loc>
     <lastmod>2026-05-02T16:20:02+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/</loc>
