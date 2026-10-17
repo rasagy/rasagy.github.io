@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rasagy.in/blog/</loc>
+    <lastmod>2026-10-17T14:50:02+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/blog/tags/</loc>
+    <lastmod>2026-10-17T14:50:02+05:30</lastmod>
+  </url><url>
+    <loc>http://rasagy.in/blog/designup-decade/</loc>
+    <lastmod>2026-10-17T14:50:02+05:30</lastmod>
+  </url><url>
     <loc>http://rasagy.in/</loc>
-    <lastmod>2026-08-15T08:08:26+05:30</lastmod>
+    <lastmod>2026-10-17T14:50:02+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/weeknotes/20260808/</loc>
     <lastmod>2026-08-15T08:08:26+05:30</lastmod>
@@ -52,12 +61,6 @@
   </url><url>
     <loc>http://rasagy.in/community/panel-sf-designdays-vibe-architects/</loc>
     <lastmod>2025-10-10T10:10:10+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/blog/</loc>
-    <lastmod>2025-10-04T16:47:45+05:30</lastmod>
-  </url><url>
-    <loc>http://rasagy.in/blog/tags/</loc>
-    <lastmod>2025-10-04T16:47:45+05:30</lastmod>
   </url><url>
     <loc>http://rasagy.in/blog/list-sketchnoters/</loc>
     <lastmod>2025-10-04T16:47:45+05:30</lastmod>
@@ -348,6 +351,8 @@
     <loc>http://rasagy.in/community/at/pcd/</loc>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/by/peyush-agarwal/</loc>
+  </url><url>
+    <loc>http://rasagy.in/blog/tags/photos/</loc>
   </url><url>
     <loc>http://rasagy.in/sketchnotes/by/point-of-view/</loc>
   </url><url>
